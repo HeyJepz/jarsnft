@@ -1,8 +1,20 @@
 MOR / Thesis Project by Alrae, Patrick, Jeffrey, Rigor
 
 ## Getting Started
+First install Node.js from their website by using this link here: https://nodejs.org/en
+Then install the following:
+- Tailwind.css
+```
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+```
+- Node packages / dependencies
+Type this to the terminal
+```
+npm i
+```
 
-First, run the development server:
+Second, run the development server:
 
 ```bash
 npm run dev
